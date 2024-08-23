@@ -13,7 +13,6 @@ body {
 }
 
 
-
 /* navigation bar css */
 .navigation {
     background-color: #1F2937;
@@ -76,6 +75,28 @@ h2 {
 
 /* content css */
 
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.character-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px 0px 20px;
+    border: 5px solid gold;
+    border-radius: 10px;
+}
+
+.name {
+    text-align: center;
+}
 
 
 
