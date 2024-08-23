@@ -64,6 +64,7 @@ h2 {
     background-color: #3882F6;
     color: #E5E7EB;
     width: 100px;
+    height: 35px;
     border-radius: 8px;
     border: none;
 }
@@ -99,15 +100,69 @@ h2 {
 }
 
 
-
 /* quote css */
+.quotation {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 
+}
+
+.quotation p {
+    font-size: 30px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.quotation b {
+    text-align: right;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
 
 /* call to actionn css */
+.blue {
+    background-color: #3882F6;
+    margin: 50px 280px 50px 280px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    align-items: center;
+}
 
+.action-text {
+    color: #E5E7EB;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+.action-text p {
+    margin-top: 0;
+}
+
+.blue button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid white;
+    height: 40px;
+    font-size: 14px;
+}
 
 /* footer css */
 
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+    padding: 20px 0px 20px 0px;
+}
 
 /* element work */
 a {
