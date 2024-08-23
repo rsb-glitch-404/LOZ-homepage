@@ -35,9 +35,47 @@ body {
 
 /* hero css */
 
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 100px 40px 100px;
+}
 
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+    flex-basis: 500px;
+    margin-right: 80px
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.hero-text p {
+    font-size: 16px;
+}
+
+.hero-text button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 100px;
+    border-radius: 8px;
+    border: none;
+}
+
+.hero-image img {
+    width: 600px;
+    height: 300px;
+}
 
 /* content css */
+
 
 
 
