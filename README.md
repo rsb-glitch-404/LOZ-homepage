@@ -1,0 +1,1 @@
+this is a practice homepage i made, specifically for the legend of zelda so i could practice with flexbox, flex properties and whatnot. it was quite difficult, i'm much better at the other parts of cs that don't include design like css does, but its nice to practice and i want to become confident in this.
